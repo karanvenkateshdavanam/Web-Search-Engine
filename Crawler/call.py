@@ -1,0 +1,3 @@
+from space_vector_model import vector_calculation_call
+
+vector_calculation_call()
